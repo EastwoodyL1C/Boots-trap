@@ -53,7 +53,7 @@ section {
 /*footer start*/
 .footer {
     background-color: var(--c-bg);
-    padding: 10px 0px;
+    padding: 20px 0px;
 }
 .footer__licence {
     font-weight: 400;
